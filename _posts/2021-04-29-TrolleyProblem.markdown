@@ -17,8 +17,8 @@ Adam explains this philosophical dilemma in simple ruby code:
 def print_hi(name)
   puts "Hi, #{name}, in this game, you lose either way!"
 end
-print_hi('Tom')
-#=> prints 'Hi, Tom, in this game, you lose either way' to STDOUT.
+print_hi('Immanuel')
+#=> prints 'Hi, Immanuel, in this game, you lose either way' to STDOUT.
 {% endhighlight %}
 
 
